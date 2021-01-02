@@ -1,0 +1,13 @@
+C:\Users\debra_2qm34gh\source\repos\WeekTwoHomeworkConversions\WeekTwoHomeworkConversions\obj\Debug\netcoreapp3.1\WeekTwoHomeworkConversions.csprojAssemblyReference.cache
+C:\Users\debra_2qm34gh\source\repos\WeekTwoHomeworkConversions\WeekTwoHomeworkConversions\obj\Debug\netcoreapp3.1\WeekTwoHomeworkConversions.csproj.CoreCompileInputs.cache
+C:\Users\debra_2qm34gh\source\repos\WeekTwoHomeworkConversions\WeekTwoHomeworkConversions\obj\Debug\netcoreapp3.1\WeekTwoHomeworkConversions.AssemblyInfoInputs.cache
+C:\Users\debra_2qm34gh\source\repos\WeekTwoHomeworkConversions\WeekTwoHomeworkConversions\obj\Debug\netcoreapp3.1\WeekTwoHomeworkConversions.AssemblyInfo.cs
+C:\Users\debra_2qm34gh\source\repos\WeekTwoHomeworkConversions\WeekTwoHomeworkConversions\bin\Debug\netcoreapp3.1\WeekTwoHomeworkConversions.exe
+C:\Users\debra_2qm34gh\source\repos\WeekTwoHomeworkConversions\WeekTwoHomeworkConversions\bin\Debug\netcoreapp3.1\WeekTwoHomeworkConversions.deps.json
+C:\Users\debra_2qm34gh\source\repos\WeekTwoHomeworkConversions\WeekTwoHomeworkConversions\bin\Debug\netcoreapp3.1\WeekTwoHomeworkConversions.runtimeconfig.json
+C:\Users\debra_2qm34gh\source\repos\WeekTwoHomeworkConversions\WeekTwoHomeworkConversions\bin\Debug\netcoreapp3.1\WeekTwoHomeworkConversions.runtimeconfig.dev.json
+C:\Users\debra_2qm34gh\source\repos\WeekTwoHomeworkConversions\WeekTwoHomeworkConversions\bin\Debug\netcoreapp3.1\WeekTwoHomeworkConversions.dll
+C:\Users\debra_2qm34gh\source\repos\WeekTwoHomeworkConversions\WeekTwoHomeworkConversions\bin\Debug\netcoreapp3.1\WeekTwoHomeworkConversions.pdb
+C:\Users\debra_2qm34gh\source\repos\WeekTwoHomeworkConversions\WeekTwoHomeworkConversions\obj\Debug\netcoreapp3.1\WeekTwoHomeworkConversions.dll
+C:\Users\debra_2qm34gh\source\repos\WeekTwoHomeworkConversions\WeekTwoHomeworkConversions\obj\Debug\netcoreapp3.1\WeekTwoHomeworkConversions.pdb
+C:\Users\debra_2qm34gh\source\repos\WeekTwoHomeworkConversions\WeekTwoHomeworkConversions\obj\Debug\netcoreapp3.1\WeekTwoHomeworkConversions.genruntimeconfig.cache
